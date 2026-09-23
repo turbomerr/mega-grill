@@ -1,20 +1,37 @@
-# MEGA GRILL – Güncel kaynak kodu
+MEGA GRILL Streetfood
 
-Güncelleme: 22.09.2026
+A responsive restaurant website for MEGA GRILL in Wuppertal, built with HTML, CSS, and JavaScript.
 
-ZIP dosyasını çıkarın. mega-grill klasörünü VS Code ile açın ve Live Server ile çalıştırın.
-Alternatif: bu klasörde `python3 -m http.server 8000` çalıştırın ve http://localhost:8000 adresini açın.
-Npm install veya build gerekmez. Statik hosting için bu klasörün tüm içeriğini yükleyin.
+Features
 
-- index.html: Ana sayfa
-- style.css: Tasarım
-- app.js: Menü, yorumlar, animasyonlar ve açılış günü
-- order.js: Lieferando, Wolt ve Uber Eats seçim penceresi
-- menu-data.js: Menü ve fiyatlar
-- speisekarte/: Sayfa geçişli tam menü
-- assets/: Görseller, menü sayfaları ve PDF
+Categorized menu with prices
 
-Son değişiklikler: Route starten alt çizgili turuncu hover efekti; yorumlarda duraklatma butonu kaldırıldı, hover sırasında duraklama; sipariş butonları üç platform seçeneği sunar.
-Google puanı, yorumlar ve açılış saatleri otomatik güncellenmez. Harita, web fontları ve dış bağlantılar internet gerektirir.
+Swipeable full menu page
 
-Google yorum kartlarına dört yeni yorum eklendi; toplam yedi yorum gösterilir.
+Lieferando, Wolt, and Uber Eats ordering options
+
+Animated Google review cards
+
+Opening hours, phone contact, and Google Maps location
+
+Getting Started
+
+Open index.html using VS Code Live Server. No npm installation or build step is required.
+
+Files
+
+index.html: Page content
+
+style.css: Styles and animations
+
+app.js: Menu and page interactions
+
+order.js: Ordering dialog
+
+menu-data.js: Products and prices
+
+speisekarte/: Full menu page
+
+assets/: Images and menu PDF
+
+Google ratings, reviews, and opening hours are updated manually.
