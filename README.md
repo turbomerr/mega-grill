@@ -1,8 +1,8 @@
-MEGA GRILL Streetfood
+#MEGA GRILL Streetfood
 
 A responsive restaurant website for MEGA GRILL in Wuppertal, built with HTML, CSS, and JavaScript.
 
-Features
+##Features
 
 Categorized menu with prices
 
@@ -14,11 +14,11 @@ Animated Google review cards
 
 Opening hours, phone contact, and Google Maps location
 
-Getting Started
+##Getting Started
 
 Open index.html using VS Code Live Server. No npm installation or build step is required.
 
-Files
+##Files
 
 index.html: Page content
 
